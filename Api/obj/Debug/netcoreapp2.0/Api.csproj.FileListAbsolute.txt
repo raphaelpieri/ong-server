@@ -1,0 +1,15 @@
+D:\projetos\avaliacoes\PolenAPI\Api\bin\Debug\netcoreapp2.0\Api.deps.json
+D:\projetos\avaliacoes\PolenAPI\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
+D:\projetos\avaliacoes\PolenAPI\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
+D:\projetos\avaliacoes\PolenAPI\Api\bin\Debug\netcoreapp2.0\Api.dll
+D:\projetos\avaliacoes\PolenAPI\Api\bin\Debug\netcoreapp2.0\Api.pdb
+D:\projetos\avaliacoes\PolenAPI\Api\bin\Debug\netcoreapp2.0\Domain.dll
+D:\projetos\avaliacoes\PolenAPI\Api\bin\Debug\netcoreapp2.0\Shared.dll
+D:\projetos\avaliacoes\PolenAPI\Api\bin\Debug\netcoreapp2.0\Domain.pdb
+D:\projetos\avaliacoes\PolenAPI\Api\bin\Debug\netcoreapp2.0\Shared.pdb
+D:\projetos\avaliacoes\PolenAPI\Api\obj\Debug\netcoreapp2.0\Api.csprojResolveAssemblyReference.cache
+D:\projetos\avaliacoes\PolenAPI\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
+D:\projetos\avaliacoes\PolenAPI\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
+D:\projetos\avaliacoes\PolenAPI\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
+D:\projetos\avaliacoes\PolenAPI\Api\obj\Debug\netcoreapp2.0\Api.dll
+D:\projetos\avaliacoes\PolenAPI\Api\obj\Debug\netcoreapp2.0\Api.pdb
